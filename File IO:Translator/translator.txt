@@ -1,0 +1,6 @@
+https://www.singaporeair.com/en_UK/gb/media-centre/press-release/article/?q=en_UK/2020/January-March/NE-0320-200315
+msm evo ukratko prva verzija koda se oslanjala na to da poslednji taj deo urla ima samo jedan "-"
+a ova dva primera su imala po dve crtice
+pa smo u drugoj verziji koda ispravili to tako sto umesto da splitujemo po crtici i trazimo drugi deo niza
+smo splitovali pa smo trazili poslednji deo niza
+ono length-1 sada moze da ima i milion crtica i opet ce raditi

@@ -1,0 +1,16 @@
+cao it's mehttps://www.singaporeair.com/en_UK/sg/media-centre/press-release/article/?q=en_UK/2021/January-March/ne0521-210128";
+var urlSplit = url.split("/"); 
+// splitom po ovom karakteru dobijes niz stringova gde svaki sadrzi po jedan od segmenata urla
+
+    var lastPartUrl = urlSplit[urlSplit.length-1].split("-"); 
+    var shortDate = lastPartUrl[lastPartUrl.length-1];
+OVO JE ISPRAVLJENO
+// dakle poslednji deo urla koji smo dobili sada splitujemo po crtici i izvlacimo drugi deo (iz dobijenog niza, a drugi deo ima indeks 1)... skraceno sam pisao da ne pisem prvo split pa u promenljivu pa da onda idem ta promenljiva[1] itd napisao sam .split("-")[1]
+//RANIJE 
+var skraceniDatum = poslednjiDeoUrla.split("-")[1]; 
+
+
+
+
+
+cao it's mecao it's mecao it's mecao it's mecao it's mecao it's mecao it's mecao it's mecao it's mecao it's me
